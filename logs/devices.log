@@ -1,9 +1,0 @@
-NAME          SIZE FSTYPE MOUNTPOINT
-loop0         100M ext4   
-sda           1.9T        
-├─sda1         10G ext4   
-├─sda2         15G        
-└─sda3         25G ext4   
-mmcblk0     953.6G        
-├─mmcblk0p1   512M vfat   /boot/firmware
-└─mmcblk0p2 953.1G ext4   /
